@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="please_log_in_and_find_batman_s_secret">Please log in and find BATMAN\'s secret</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
